@@ -1,0 +1,6 @@
+framework module Pods_MXGCDQueuePool_Tests {
+  umbrella header "Pods-MXGCDQueuePool_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

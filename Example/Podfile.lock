@@ -1,0 +1,16 @@
+PODS:
+  - MXGCDQueuePool (0.1.0)
+
+DEPENDENCIES:
+  - MXGCDQueuePool (from `../`)
+
+EXTERNAL SOURCES:
+  MXGCDQueuePool:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MXGCDQueuePool: d3fb96781e80072077d7b24f6393abfc66d96f17
+
+PODFILE CHECKSUM: 24bf3cdc280cfa091b90b5aa488ff4fe74aed6c7
+
+COCOAPODS: 1.5.3

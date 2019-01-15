@@ -1,0 +1,6 @@
+framework module MXGCDQueuePool {
+  umbrella header "MXGCDQueuePool-umbrella.h"
+
+  export *
+  module * { export * }
+}
